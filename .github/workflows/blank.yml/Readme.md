@@ -35,3 +35,4 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
 Readme.md run/amediga22
+ ping d5957f4b2dbd2306b97eb6f21e09032020fa0d9f
